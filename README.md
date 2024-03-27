@@ -7,4 +7,15 @@
 - 𝐎𝐭𝐡𝐞𝐫 𝐟𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐮𝐬𝐞𝐟𝐮𝐥 𝐟𝐨𝐫 𝐝𝐞𝐛𝐮𝐠𝐠𝐢𝐧𝐠 𝐚𝐧𝐝 𝐚𝐧𝐚𝐥𝐲𝐳𝐢𝐧𝐠 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞
 
   𝐃𝐞𝐦𝐨𝐧𝐬𝐭𝐚𝐭𝐢𝐨𝐧 -->
+
+       
+
+  ![image](https://github.com/Leaks-Tools/processhacker-2.38-setup/assets/165179178/d6d5fb17-d5c3-4ff8-b377-7d3884d6e1bc)
+
+
+
+  ![image](https://github.com/Leaks-Tools/processhacker-2.38-setup/assets/165179178/4597d752-b42b-4a2c-bcef-ba5d41f515a0)
+
+
+  
   
